@@ -24,5 +24,3 @@ Coming to the use case for google sheets, I researched a lot of tools like Zapie
 So i tried to use zapier in particular to automate it (one reason being it has free trial version) so created the workflow in zapier but there is some glitch from zapier end and i am trying to resolve it with the team.
 But that is not fully complete because of the issue that it is not able to get collections from the database.
 There are other solutions but they were licensed.
-
-I have added a word document named screenshots where i have given the screenshots of the workflow in zapier, postman calls, mongodb atlas database schema.
